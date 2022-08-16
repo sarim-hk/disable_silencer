@@ -14,10 +14,10 @@ Regardless, take the numbers with a pinch of salt as I was in a Discord call, wi
 
 ## Installation
 - Drag `gamestate_integration_sarim.cfg` into your `Counter-Strike Global Offensive\csgo\cfg` folder.
-- Add `-netconport 6313` to your launch options
+- Add `-netconport 6313` to your launch options.
 - Open `main.py` and turn on Counter-Strike.
 
 ## Support
-- Open an issue on GitHub
-- DM me on Twitter, [@sarim_hk](https://twitter.com/sarim_hk)
+- Open an issue on GitHub.
+- DM me on Twitter, [@sarim_hk](https://twitter.com/sarim_hk).
 
