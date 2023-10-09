@@ -1,4 +1,7 @@
 # [CS:GO] Force Silenced
+
+NOT MAINTAINED DUE TO CS2 REPLACING CSGO
+
 Force Silenced is a CS:GO tool written in Python. It allows the user to completely disable `+attack2` while a silenced weapon is equipped.  
 It does this by utilising CS:GO's Game State Integration to see which weapon is currently equipped. If it's one with a silencer, `mouse2` is unbound. Otherwise, it's rebound to `+attack2`.
 
